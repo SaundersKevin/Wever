@@ -1,8 +1,10 @@
 <!DOCTYPE html>
 <html>
 <head>
+<title>Wever Game</title>
 </head>
 <body>
+  <h>Heading</h>
   <p>Example text to test</p>
 </body>
 </html>
